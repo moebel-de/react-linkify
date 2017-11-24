@@ -1,6 +1,9 @@
 # [react-linkify](http://tasti.github.io/react-linkify/)
 React component to parse links (urls, emails, etc.) in text into clickable links
 
+## This is a fork!!!
+> **PUBLIC NOTE:** Do not use this fork. Instead use [original](https://github.com/tasti/react-linkify)
+
 ## Examples
 
 Live examples are available at [http://tasti.github.io/react-linkify/](http://tasti.github.io/react-linkify/).
